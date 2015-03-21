@@ -1,0 +1,33 @@
+draw_set_font(global.font);
+global.playedonce=1; //skip the title screen when returning
+global.sidehurts=0; //take damage from the sides of the stage
+obstaclecyc=150;
+powerupcyc=150;
+global.shakescreen=0; //it is time
+starttime=0;
+startimg=0;
+startscale=8;
+p1dead=0;
+p2dead=0;
+victory=0;
+victorycyc=0; //just in case
+victoryscale=0;
+victorytype=0;
+victoryrot=0;
+victorydance=0; //temporary
+victorypop=0; //you can't guess what this will do
+centerwins1=0;
+centerwins2=0;
+comboscale[0]=1;
+comboscale[1]=1;
+combo[0]=1; //let's do this properly for once
+combo[1]=1; //scratch that, starting at 0 should be easier
+combocyc[0]=0;
+combocyc[1]=0;
+combox=0;
+awarded1=0;
+awarded2=0;
+rainbowmusic=0;
+drawextravictory=0;
+temptext="";
+

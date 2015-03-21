@@ -1,0 +1,17 @@
+global.msgbox.msgStr[0] = "";
+global.msgbox.msgStr[1] = "";
+global.msgbox.msgStr[2] = "";
+global.msgbox.msgStr[3] = "";
+global.msgbox.msgStr[4] = "";
+global.msgbox.msgStr[5] = "";
+global.msgbox.msgStr[6] = "";
+global.msgbox.msgClr[0] = c_white;
+global.msgbox.msgClr[1] = c_white;
+global.msgbox.msgClr[2] = c_white;
+global.msgbox.msgClr[3] = c_white;
+global.msgbox.msgClr[4] = c_white;
+global.msgbox.msgLight[0] = false;
+global.msgbox.msgLight[1] = false;
+global.msgbox.msgLight[2] = false;
+global.msgbox.msgLight[3] = false;
+global.msgbox.msgLight[4] = false;

@@ -1,0 +1,3 @@
+isPlayer        = false;
+isMudeki        = false;
+
