@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+	<title>YoYo Tutorials</title>
+	<description>Tutorial feed for GameMaker: Studio</description>
+	<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/FeedImage.html</media>
+	<item>
+		<title>01_My_First_Game</title>
+		<description>This tutorial walks you through the very first steps that are needed to create your first game. If you have no experience with GameMaker, you should start here!</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/01_My_First_Game.7z</link>
+		<category>00 - Introducing GameMaker</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200001%20-%20My%20First%20Game.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>02_Scrolling_Shooter_Part1</title>
+		<description>This tutorial uses Drag And Drop to teach you how to make a basic scrolling shooter while investigating the core-concepts behind using GameMaker: Studio.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/02_Scrolling_Shooter_Part1.7z</link>
+		<category>00 - Introducing GameMaker</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200004%20-%20Scrolling%20Shooters.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>02_Scrolling_Shooter_Part2</title>
+		<description>Using a mix of Drag'n'Drop and simple code this tutorial expands upon the lessons learned for making a scrolling shooter (see the tutorial Scrolling Shooter Part 1).</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/02_Scrolling_Shooter_Part2.7z</link>
+		<category>00 - Introducing GameMaker</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200004%20-%20Scrolling%20Shooters.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>03_Coding_BreakOut</title>
+		<description>With this tutorial you will learn how to make a simple "Breakout" game using only code. It introduces all the basics of learning to code with the GameMaker Language.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/03_Coding_BreakOut.7z</link>
+		<category>00 - Introducing GameMaker</category>		
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200003%20-%20Coding%20Tutorial.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Scripting</title>
+		<description>Learn a bit about using scripts to control your gameplay. Shows what a script is, how to create one and explains a bit about why they are important.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Scripting.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200005%20-%20Scripting%20Tic-Tac-Toe.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Basic_Isometric_Tutorial</title>
+		<description>A very simple tutorial to show how to get started creating an isometric style game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/06%20-%20Isometric%20Tutorial.7z</link>
+		<category>Beginner</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200006%20-%20Isometric%20Tutorial.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Physics_Part1_Fixtures</title>
+		<description>This tutorial gives a brief overview of the most common physics functions and shows how to use them to create an "Asteroids" style game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/07%20-%20Physics%20Tutorial.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200007%20-%20Physics%20Tutorial.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Facebook_Connect</title>
+		<description>Here we show you how to set up your game to get the most from the built-in Facebook functions. It is for Android/iOS only and you will need a Facebook developers account to use this.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/08%20-%20Facebook%20Connect.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200008%20-%20Facebook%20Connect.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>GameCenter_Integration</title>
+		<description>This tutorial for iOS shows how to integrate basic Game Center functionality into your game. Note that although this is targeted at iOS, the functions are the same for Google Services and Amazon Game Circle.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/09%20-%20Game%20Center%20Integration.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200009%20-%20Game%20Center%20Integration.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Particles</title>
+		<description>This tutorial takes you through all the possible methods for creating particles using Drag'n'Drop and code.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/10%20-%20Particles.7z</link>
+		<category>Beginner</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200010%20-%20Particles.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Surfaces_Part1</title>
+		<description>With this tutorial you will learn how to use surfaces to create some basic special effects like shadows and decals.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/SurfacesPart1.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200011%20-%20Surfaces.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Surfaces_Part2</title>
+		<description>With this tutorial you will learn how to use surfaces to create some advanced special effects like full screen blurring.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/SurfacesPart2.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200011%20-%20Surfaces.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Saving_And_Loading</title>
+		<description>This tutorial will show you different ways to save informations from your game to a file, as well as load the information again. This includes game states, key bindings and level data.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/12%20-%20Saving%20And%20Loading.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/YoYo%20Games%200012%20-%20Saving%20And%20Loading.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>01_Resources</title>
+		<description>Learn how to add new resources to your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt1%20-%20Resources.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt1%20-%20Resources.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>02_Movement</title>
+		<description>This tutorial shows how to do basic movement using Drag'n'Drop and code</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt2%20-%20Movement.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt2%20-%20Movement.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>03_Collisions</title>
+		<description>Here we show you how to test for collisions between two instances</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/pt3%20-%20Collisions.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20pt3%20-%20Collisions.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>04_Gameplay</title>
+		<description>In this tutorial we add some simple gameplay elements into a game to enhance the user experience.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/pt4%20-%20Gameplay.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20pt4%20-%20Gameplay.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>05_Sound</title>
+		<description>This tutorial shows how to add sound effects to a game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt5%20-%20Sound.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt5%20-%20Sound.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>06_Animation</title>
+		<description>With this tutorial you can learn how to add animations to your sprites.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt6%20-%20Animation.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt6%20-%20Animation.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>07_Game_States</title>
+		<description>Here we show you how to add different "states" to your game, ie: Game Over, Level Complete etc...</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt7%20-%20Game%20States.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt7%20-%20Game%20States.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>08_Levels_And_Saving</title>
+		<description>With this tutorial we show how you can add a level select system to your game as well as how to save this to a file.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt8%20-%20Levels%20and%20Saving.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt8%20-%20Levels%20and%20Saving.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>09_Advanced_Gameplay</title>
+		<description>Learn how to add power ups and other extras to your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt9%20-%20Advanced%20Gameplay.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt9%20-%20Advanced%20Gameplay.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>10_Monetisation</title>
+		<description>This tutorial explains how to add adverts to your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt10%20-%20Monetisation.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt10%20-%20Monetisation.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>11_Social_Gaming</title>
+		<description>Here we show you how to add Twitter and Facebook buttons to your game</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt11%20-%20Social%20Gaming.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt11%20-%20Social%20Gaming.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>12_Polish</title>
+		<description>This tutorial takes an example game from previous tutorials and shows how to add extras to it to enhance the user experience.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt12%20-%20Polish.7z</link>
+		<category>00 - Introducing GameMaker\GM Basics</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/GM%20Basics%20Pt12%20-%20Polish.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Virtual_Keys</title>
+		<description>This tutorial will show you how to add Virtual Keys to touch screen games.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt1%20-%20Virtual%20keys.7z</link>
+		<category>Intermediate\Touch Controls</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Touch%20Controls%20Pt1%20-%20Virtual%20keys.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Swipes</title>
+		<description>With this tutorial we show you how to detect swipes across a touch screen device.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt2%20-%20Swipes.7z</link>
+		<category>Intermediate\Touch Controls</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Touch%20Controls%20Pt2%20-%20Swipes.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Pinch_And_Zoom</title>
+		<description>Here you can find out how to detect multiple touches on a device and use that to zoom or rotate an image or view.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt3%20-%20Pinch%20and%20Zoom.7z</link>
+		<category>Intermediate\Touch Controls</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Touch%20Controls%20Pt3%20-%20Pinch%20and%20Zoom.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Analogue_Sticks</title>
+		<description>Learn how to configure on-screen analogue pads for touch devices using the GUI layer and custom scripts.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt4%20-%20Analogue%20Sticks.7z</link>
+		<category>Intermediate\Touch Controls</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Touch%20Controls%20Pt4%20-%20Analogue%20Sticks.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Audio_Part1_Adding_Audio</title>
+		<description>This tutorial will show you how to add simple sound effects and a music track to your games, as well as explain the different options available for your imported audio files.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt1%20-%20Adding%20Audio.7z</link>
+		<category>Beginner\Audio</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Audio%20Pt1%20-%20Adding%20Audio.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Audio_Part2_Changing_Audio</title>
+		<description>With this tutorial you will learn how to fade sounds, change their pitch and move them within the stereo field.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Pt2%20-%20Changing%20Audio.7z</link>
+		<category>Beginner\Audio</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Audio%20Pt2%20-%20Changing%20Audio.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>URL_Encode_And_Twitter</title>
+		<description>This tutorial supplies a script for encoding URLs and shows how it can be applied to create a Twitter button in your games.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/URLEncodeAndTwitter.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/URLEncodeAndTwitter.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>The_Application_Surface_Overview</title>
+		<description>This tutorial explains what the application surface is and gives an overview of how it works.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/The%20Application%20Surface%20-%20Overview.7z</link>
+		<category>Beginner</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/The%20Application%20Surface%20-%20Overview.html</media>
+		<pubDate>10/03/2014</pubDate>
+	</item>
+	<item>
+		<title>The_Application_Surface_Scaling</title>
+		<description>Scaling your game to fit different windows and device displays can be complicated, so learn how to make it easier with this tutorial.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/The%20Application%20Surface%20-%20Scaling.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/The%20Application%20Surface%20-%20Scaling.html</media>
+		<pubDate>19/03/2014</pubDate>
+	</item>
+	<item>
+		<title>The_Application_Surface_Special_Effects</title>
+		<description>This tutorial shows how the application surface can be used for transitions and special effects.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/The%20Application%20Surface%20-%20Special%20Effects.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/The%20Application%20Surface%20-%20Special%20Effects.html</media>
+		<pubDate>11/03/2014</pubDate>
+	</item>
+	<item>
+		<title>Skeletal_Animation</title>
+		<description>The 1.3 update to GameMaker: Studio added support for skeletal animation sprites made using the program Spine. This tutorial covers the basics of importing and using them in your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Skeletal%20Animation.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Skeletal%20Animation.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Vector_Sprites</title>
+		<description>The 1.3 update to GameMaker: Studio added support for vector sprites using the SWF file format. This tutorial covers the basics of importing and using them in your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Vector%20Sprites.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/Vector%20Sprites.html</media>
+		<pubDate>23/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Optimising_The_Draw_Pipeline</title>
+		<description>This short tutorial for Advanced users takes you through some of the most important optimisations that can be done in your game to make rendering faster. The tutorial was designed 
+		for the OUYA platform, and low-end Android devices in particular, but most of the techniques shown can be applied to most platforms.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/OptimiseDrawPipeline.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/OptimiseDrawPipeline.html</media>
+		<pubDate>27/04/2014</pubDate>
+	</item>
+	<item>
+		<title>HTML5_Scaling</title>
+		<description>This short tutorial covers some of the basic ways that you can scale your HTML5 and JS target games to better fit the browser, without distorting the game canvas, using easy to follow scripts.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/HTML5_Scaling.7z</link>
+		<category>Intermediate</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/HTML5_Scaling.html</media>
+		<pubDate>30/04/2014</pubDate>
+	</item>
+</channel>
+</rss>
